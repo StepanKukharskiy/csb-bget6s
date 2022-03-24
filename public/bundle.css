@@ -3,7 +3,7 @@ button.svelte-bstu1n{margin-top:40px;background:radial-gradient(
 	    44.96% 391.37% at 49.64% 50%,
 	    #b08aeb 2.67%,
 	    #91c0ff 100%
-	  );border-radius:50px;color:white;border:none;padding:8px 12px;width:200px;height:63px;font-family: Poppins;font-style:normal;font-weight:600;font-size:25px;color:white;text-align:center;cursor:pointer;box-shadow:0px 0px 21px rgb(107 142 255 / 70%), inset 0px 4px 18px #819df7,
+	  );border-radius:50px;color:white;border:none;padding:8px 12px;width:200px;height:63px;font-family: Poppins, sans-serif;font-style:normal;font-weight:600;font-size:25px;color:white;text-align:center;cursor:pointer;box-shadow:0px 0px 21px rgb(107 142 255 / 70%), inset 0px 4px 18px #819df7,
 	    inset 0px -4px 6px #b3baff}
 
 /*# sourceMappingURL=bundle.css.map */
